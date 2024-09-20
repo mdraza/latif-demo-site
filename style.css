@@ -1,0 +1,59 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+  }
+  nav {
+    background-color: #212529;
+  }
+  .hero {
+    height: 85vh;
+    padding: 130px 0 120px;
+    background-color: #212529;
+  }
+  .hero .hero-txt-sec h1 {
+    font-size: 45px;
+    font-weight: bolder;
+  }
+  .hero .hero-img-sec img {
+    width: 100%;
+  }
+  .about {
+    padding: 100px 0;
+  }
+  .about .about-detail .icon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .about .about-detail .icon .fa {
+    color: #fff;
+    font-size: 25px;
+  }
+  .feature {
+    display: inline-block;
+    padding: 10px 14px;
+    border-radius: 10%;
+  }
+  .card-body ul li{
+    list-style: none;
+  }
+  .container-fluid h3 {
+    font-style: italic; width: 60%; margin: auto
+  }
+  .testimonial{
+    text-align: center;
+  }
+  .rounded-circle {
+    margin-right: 10px;
+  }
+  footer {
+    margin-top: 40px;
+    padding: 0;
+  }
+  p {
+    margin: 0;
+  }
